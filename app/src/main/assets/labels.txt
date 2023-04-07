@@ -1,0 +1,4 @@
+0 Apple Scab
+1 Apple Black Rot
+2 Healthy Blueberry
+3 Healthy Cherry
